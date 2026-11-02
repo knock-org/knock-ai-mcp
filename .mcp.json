@@ -1,0 +1,6 @@
+{
+  "knock-ai": {
+    "type": "http",
+    "url": "https://app.knock-ai.com/mcp"
+  }
+}
