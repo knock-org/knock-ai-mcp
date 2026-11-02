@@ -1,0 +1,12 @@
+{
+  "name": "knock-ai",
+  "version": "1.0.0",
+  "description": "Ask your AI assistant about your Knock workspace: chats with leads and their messages, booked meetings, and your accounts and contacts. Filter, count and break them down like on your Knock dashboard. Sign in with your Knock account; it sees only what your role can see.",
+  "author": {
+    "name": "Knock AI",
+    "url": "https://knock-ai.com"
+  },
+  "homepage": "https://knock-ai.com",
+  "repository": "https://github.com/knock-org/knock-ai-mcp",
+  "keywords": ["knock", "sales", "leads", "chats", "meetings", "crm", "mcp"]
+}
